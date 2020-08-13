@@ -122,13 +122,6 @@
     
     <p/>
 
-#### STATS
-<p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=masmaspedo&show_icons=true" alt="masmaspedo" />
-
-</p>
-
 #### GET CLOSER WITH ME
 
 <p align="center">
