@@ -135,4 +135,7 @@
 <p align="center">
 <a href="https://fb.com/bluespada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bluespada" height="30" width="30" /></a>
 <a href="https://instagram.com/hamstar_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hamstar_o" height="30" width="30" /></a>
-</>
+<a href="https://t.me/unfaedah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="unfaedah" height="30" width="30" /></a>
+<a href="https://twitter.com/kochengsans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kochengsans" height="30" width="30" /></a>
+
+<p/>
