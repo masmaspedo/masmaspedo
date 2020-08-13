@@ -127,6 +127,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=masmaspedo&show_icons=true" alt="masmaspedo" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masmaspedo&layout=compact&hide=html" alt="masmaspedo" />
 </p>
 
 #### GET CLOSER WITH ME
