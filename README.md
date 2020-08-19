@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masmaspedo" alt="masmaspedo" /> </p>
 
-- 🔭 I’m currently working on [Nusa Kernel Manager](https://github.com/masmaspedo/nskmanager.git).
+- 🔭 I’m currently working on [Fenrir Game Booster](https://github.com/masmaspedo/fgbooster.git).
 
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/masmaspedo?tab=repositories).
 
