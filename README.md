@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/masmaspedo?tab=repositories).
 
-- 💬 Ask me about **python , kotlin , java , php , javascripts, C , C Sharp**.
+- 💬 Ask me about **python , kotlin , java , php , javascripts, Typescript , C Sharp**.
 
 - 📫 How to reach me **pentingmain@gmail.com**.
 
@@ -15,8 +15,6 @@
 
 * #### PROGRAMMING LANGUAGE
     <p align="left">
-
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
