@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/masmaspedo?tab=repositories).
 
-- 💬 Ask me about **python , kotlin , java , php , javascripts, Typescript , C Sharp**.
+- 💬 Ask me about **python , kotlin , java , php , javascripts, Typescript , C#**.
 
 - 📫 How to reach me **pentingmain@gmail.com**.
 
