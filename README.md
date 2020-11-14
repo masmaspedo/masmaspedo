@@ -11,7 +11,7 @@
 <br/>
 
 
-![github toplang](https://github-readme-stats.vercel.app/api?username=masmaspedo&show_icons=true&locale=en&theme=synthwave&hide_border=true&count_private=true&hide_title=true&line_height=20) ![github usages](https://github-readme-stats.vercel.app/api/top-langs?username=masmaspedo&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&hide_title=true&card_width=200)
+![github toplang](https://github-readme-stats.vercel.app/api?username=masmaspedo&show_icons=true&locale=en&theme=synthwave&hide_border=true&count_private=true&hide_title=true) ![github usages](https://github-readme-stats.vercel.app/api/top-langs?username=masmaspedo&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&hide_title=true)
 
 
 <br/>
