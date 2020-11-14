@@ -1,12 +1,15 @@
 <h3 align="center">Hello there 👋 , I'm Masmaspedo</h3>
 <h4 align="left" >I am passionated web and mobile developers</h4>
 
-- 🔭 I’m currently working on ASTINA GROUP.
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/masmaspedo?tab=repositories).
+- 👨‍💻 All of my projects are available at my [repositories](https://github.com/masmaspedo?tab=repositories).
 
-- 💬 Ask me about python , kotlin , java , php , javascripts , typescript , c++
+- 💬 Ask me about <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/> .
 
+- 📫 How to reach me **pentingmain@gmail.com**.
+
+- ⚡ Fun fact **I love programming since at junior high school and i love to learn something new everyday**.
 <br/>
+
 
 ![github toplang](https://github-readme-stats.vercel.app/api?username=masmaspedo&show_icons=true&locale=en&theme=synthwave&hide_border=true&count_private=true&hide_title=true&line_height=20) ![github usages](https://github-readme-stats.vercel.app/api/top-langs?username=masmaspedo&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&hide_title=true&card_width=200)
 
