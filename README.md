@@ -15,18 +15,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/kochengsans" target="blank"><img src="https://img.shields.io/badge/Twitter%20@kochengsans-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter" />
+  <a href="https://twitter.com/kochengsans" target="_blank"><img src="https://img.shields.io/badge/Twitter%20@kochengsans-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter" />
   </a>
 
-  <a href="https://instagram.com/hamstar_o" target="blank"><img src="https://img.shields.io/badge/Instagram%20@hamstar_o-%23ff057e.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram" />
+  <a href="https://instagram.com/hamstar_o" target="_blank"><img src="https://img.shields.io/badge/Instagram%20@hamstar_o-%23ff057e.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 
-  <a href="https://facebook.com/bluespada" target="blank"><img src="https://img.shields.io/badge/Facebook%20@bluespada-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="facebook" />
+  <a href="https://facebook.com/bluespada" target="_blank"><img src="https://img.shields.io/badge/Facebook%20@bluespada-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 
 
 
-  <a href="https://t.me/unfaedah" target="blank"><img src="https://img.shields.io/badge/Facebook%20@unfaedah-%230088CC.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram" />
+  <a href="https://t.me/unfaedah" target="_blank"><img src="https://img.shields.io/badge/Facebook%20@unfaedah-%230088CC.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram" />
   </a>
 
 </p>
