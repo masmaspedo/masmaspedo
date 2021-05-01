@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/masmaspedo?tab=repositories).
 
-- 💬 Ask me about <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/> .
-
 - 📫 How to reach me **pentingmain@gmail.com**.
 
 - ⚡ Fun fact **I love programming since at junior high school and i love to learn something new everyday**.
